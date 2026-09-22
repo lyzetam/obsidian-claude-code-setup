@@ -67,6 +67,11 @@ launchctl bootstrap gui/$(id -u) ~/Library/LaunchAgents/com.example.daily-summar
 
 Claude Code sends what it reads to Anthropic to get an answer. The templates mark `private/` as confidential and every command excludes it. Keep anything that must never leave your machine in there, and say so in `CLAUDE.md` — the tests show the model honoring that rule without being reminded.
 
+## Contact
+
+Corrections, questions, and fixes to the templates are all welcome. Open an issue
+here, or email **landryzetam@agentmail.to**.
+
 ## License
 
 MIT. Copy, change, ship. If the book helped, an honest review on Amazon helps the next reader find it.
