@@ -4,7 +4,9 @@ The scripts, slash commands and config files from the book **_Obsidian + Claude 
 
 The book explains why each piece exists and the incidents that shaped it. This repo is the copy-paste half. It is free; the book is $4.99.
 
-**Book:** Amazon link coming as soon as the listing is live — search Amazon for *"Obsidian + Claude Code" Landry Zetam* in the meantime.
+**Book:** [Obsidian + Claude Code: The Second Brain Setup Guide](https://www.amazon.com/dp/B0HKBMT98W) — $4.99 on Kindle.
+
+The rest of the series: [Small AI Agents With Claude Code](https://www.amazon.com/dp/B0HKG9HS1W) (scheduled agents, [kit here](https://github.com/lyzetam/small-ai-agents-with-claude-code)) and [Claude Code for Everyday Computer Work](https://www.amazon.com/dp/B0HKMD72CL) (the entry point, for people who do not code).
 
 ## What you get
 
